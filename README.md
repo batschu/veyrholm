@@ -4,7 +4,7 @@ A dark fantasy dungeon-crawling RPG set beneath a snowbound northern town.
 Explore the buried fortress, fight its inhabitants, collect equipment and spells,
 and return to Veyrholm to trade, recover, and prepare for the next expedition.
 
-**[Download for Windows](https://github.com/batschu/veyrholm-releases/releases)**
+**[Download for Windows](https://github.com/batschu/veyrholm/releases)**
 
 ## The game
 
@@ -26,7 +26,7 @@ combat, movement, and visuals are still evolving.
 
 ## Play on Windows
 
-1. Open [Releases](https://github.com/batschu/veyrholm-releases/releases) and download
+1. Open [Releases](https://github.com/batschu/veyrholm/releases) and download
    **Veyrholm-Windows-x86_64.zip** under **Assets**.
 2. Extract the entire ZIP into a folder.
 3. Launch **Veyrholm.exe**. Keep **Veyrholm.pck** beside it.
