@@ -27,13 +27,12 @@ combat, movement, and visuals are still evolving.
 ## Play on Windows
 
 1. Open [Releases](https://github.com/batschu/veyrholm/releases) and download
-   **Veyrholm-Windows-x86_64.zip** and every **Veyrholm.pck.00x** data
-   pack part under **Assets**.
+   **Veyrholm-Windows-x86_64.zip** plus any **Veyrholm.pck.00x** data
+   pack parts listed under **Assets**.
 2. Put every downloaded file into one new folder and extract the ZIP there.
-3. Double-click **join_parts.bat**. It joins all pack parts into
-   **Veyrholm.pck**.
-4. Launch **Veyrholm.exe**.
+3. If the release includes pack parts, double-click **join_parts.bat**.
+   It joins them into **Veyrholm.pck**.
+4. Launch **Veyrholm.exe**. Keep **Veyrholm.pck** beside it.
 
-No Godot installation or source-code checkout is needed. The game is too big
-for a single download file, so the data pack travels as several parts that the
-batch file joins.
+No Godot installation or source-code checkout is needed. Larger releases split
+the game data into several parts; older releases include it directly in the ZIP.
