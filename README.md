@@ -5,7 +5,7 @@ follow its inhabitants' troubles into the wilderness, and descend into a fortres
 buried beneath the town. Fight in real time, gather supplies, and make the equipment
 you carry into the next expedition.
 
-**[Download the Windows preview — v0.1.23](https://github.com/batschu/veyrholm/releases/tag/v0.1.23)**
+**[Download the Windows preview — v0.1.24](https://github.com/batschu/veyrholm/releases/tag/v0.1.24)**
 
 ![The road through Veyrholm's snowy houses and market](docs/images/veyrholm-town.png)
 
@@ -17,15 +17,20 @@ Explore woodland paths, rocky heights, and misty marshes, with caves, cellars,
 camps, and other smaller places along the way. Return to town to trade, rest,
 and prepare.
 
-The fortress descends through **eight procedural floors**, with enemies, traps,
-treasure, and hidden rooms. Its entrance opens through the town's quest progression.
+The fortress descends through **eight procedural floors**: worked mine passages,
+a great shaft, a buried garrison, cisterns, a blackstone sanctuary, burial galleries,
+a royal procession, and broken rune halls. A distinct entrance marks the way inside,
+and paired spiral stairs connect each floor to the next. Existing expeditions keep
+their explored layouts while receiving the new architecture and themed furnishings.
+Enemies, traps, treasure, and hidden rooms await below. The entrance opens through
+the town's quest progression.
 Time your attacks, blocks, parries, and rolls, and combine weapons and armour with
 spells as you develop your character.
 
 <table>
   <tr>
     <td><img src="docs/images/veyrholm-bittermoor.png" alt="A timber boardwalk through Bittermoor's reeds and twisted trees" width="100%"></td>
-    <td><img src="docs/images/veyrholm-dungeon.png" alt="A torchlit room on the Ashen Mine floor of the buried fortress" width="100%"></td>
+    <td><img src="docs/images/veyrholm-dungeon.png" alt="The garrison's stone walls and fitted portal inside the buried fortress" width="100%"></td>
   </tr>
   <tr><td>Bittermoor</td><td>Inside the buried fortress</td></tr>
 </table>
@@ -65,13 +70,11 @@ paint and charge runes, bind stones, and test enchantments.
 
 ## Play on Windows
 
-For [v0.1.23](https://github.com/batschu/veyrholm/releases/tag/v0.1.23), download
-**all four files** under **Assets** (about 4 GB in total):
+For [v0.1.24](https://github.com/batschu/veyrholm/releases/tag/v0.1.24), download
+the launcher ZIP and **every numbered data pack part** under **Assets**:
 
 - **Veyrholm-Windows-x86_64.zip**
-- **Veyrholm.pck.001**
-- **Veyrholm.pck.002**
-- **Veyrholm.pck.003**
+- **Veyrholm.pck.001**, **Veyrholm.pck.002**, and all subsequent numbered parts.
 
 Put them in one new folder and fully extract the ZIP there. Double-click
 **join_parts.bat** to assemble **Veyrholm.pck**, then launch **Veyrholm.exe**.
@@ -82,4 +85,5 @@ Veyrholm is in active development, and this is a playable preview. Some higher-t
 crafting content and Mystic Arts are currently available only in practice;
 campaign content, balancing, and visuals are still evolving.
 
-*Screenshots captured from v0.1.23 at 1920 × 1080.*
+*Town, wilderness, and crafting screenshots are from v0.1.23; the dungeon view
+shows the latest architecture overhaul. All screenshots are 1920 × 1080.*
