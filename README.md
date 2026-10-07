@@ -5,7 +5,7 @@ follow its inhabitants' troubles into the wilderness, and descend into a fortres
 buried beneath the town. Fight in real time, gather supplies, and make the equipment
 you carry into the next expedition.
 
-**[Download the Windows preview — v0.1.24](https://github.com/batschu/veyrholm/releases/tag/v0.1.24)**
+**[Download the Windows preview — v0.1.25](https://github.com/batschu/veyrholm/releases/tag/v0.1.25)**
 
 ![The road through Veyrholm's snowy houses and market](docs/images/veyrholm-town.png)
 
@@ -70,16 +70,18 @@ paint and charge runes, bind stones, and test enchantments.
 
 ## Play on Windows
 
-For [v0.1.24](https://github.com/batschu/veyrholm/releases/tag/v0.1.24), download
-the launcher ZIP and **every numbered data pack part** under **Assets**:
+For [v0.1.25](https://github.com/batschu/veyrholm/releases/tag/v0.1.25), download
+**every ZIP** under **Assets**:
 
-- **Veyrholm-Windows-x86_64.zip**
-- **Veyrholm.pck.001**, **Veyrholm.pck.002**, and all subsequent numbered parts.
+- **Veyrholm-Windows-x86_64.zip** (the game)
+- **Veyrholm-Data-01.zip**, **Veyrholm-Data-02.zip**, and every further numbered
+  data ZIP.
 
-Put them in one new folder and fully extract the ZIP there. Double-click
-**join_parts.bat** to assemble **Veyrholm.pck**, then launch **Veyrholm.exe**.
-You do not need Godot installed. Customise your movement, combat, and spell
-bindings under **Settings → Controls**.
+Put them in one new folder and extract each ZIP into that same folder, then
+launch **Veyrholm.exe**. There is nothing to join any more, and you do not need
+Godot installed. If a data pack is missing, the game names it and closes.
+**SHA256SUMS.txt** lists each ZIP's checksum. Customise your movement, combat,
+and spell bindings under **Settings → Controls**; a controller works too.
 
 Veyrholm is in active development, and this is a playable preview. Some higher-tier
 crafting content and Mystic Arts are currently available only in practice;
