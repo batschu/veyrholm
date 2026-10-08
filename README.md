@@ -5,7 +5,7 @@ follow its inhabitants' troubles into the wilderness, and descend into a fortres
 buried beneath the town. Fight in real time, gather supplies, and make the equipment
 you carry into the next expedition.
 
-**[Download the Windows preview — v0.1.26](https://github.com/batschu/veyrholm/releases/tag/v0.1.26)**
+**[Download the Windows preview — v0.1.27](https://github.com/batschu/veyrholm/releases/tag/v0.1.27)**
 
 ![The road through Veyrholm's snowy houses and market](docs/images/veyrholm-town.png)
 
@@ -70,7 +70,7 @@ paint and charge runes, bind stones, and test enchantments.
 
 ## Play on Windows
 
-For [v0.1.26](https://github.com/batschu/veyrholm/releases/tag/v0.1.26), download
+For [v0.1.27](https://github.com/batschu/veyrholm/releases/tag/v0.1.27), download
 **every ZIP** under **Assets**:
 
 - **Veyrholm-Windows-x86_64.zip** (the game)
@@ -79,7 +79,8 @@ For [v0.1.26](https://github.com/batschu/veyrholm/releases/tag/v0.1.26), downloa
 
 Put them in one new folder and extract each ZIP into that same folder, then
 launch **Veyrholm.exe**. There is nothing to join any more, and you do not need
-Godot installed. If a data pack is missing, the game names it and closes.
+Godot installed. If a data pack is missing or comes from another version, the
+game names it and closes.
 Updating an older install: replace every ZIP; the data ZIPs must come from the
 same version as the game.
 **SHA256SUMS.txt** lists each ZIP's checksum. Customise your movement, combat,
